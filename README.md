@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- Hi, I’m Junhong, but some people calls me Jordan
+- I’m interested in computer programming
+- I’m currently learning Object Oriented Programming
+- I'm originally from China
+- I'm a Freshman in Computer Engineering
+- I chose my major because I want to learn about computer stuff
+- A fun fact about me is: I have a water bottle that's been with me since middle school
+- What do I want to learn from EE 205?  C & C++
+- A book or movie I'd recommend is: Pay It Forward
+
 <!--
 **jxiong1/jxiong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
